@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.back {
+    background-color: white;
+}
+
+.bg {
+    background-color: white;
+}
+
+.heading {
+    color: navy;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.card1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    height: 250px;
+    width: 500px;
+    background-size: cover;
+    border-radius: 15px;
+}
+
+.card2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    height: 250px;
+    width: 500px;
+    background-size: cover;
+    border-radius: 15px;
+}
+
+.title {
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.tag {
+    color: white;
+    font-size: 25px;
+    font-family: "Roboto";
+}
+
+.but {
+    color: orange;
+    border-width: 1px;
+    border-color: orange;
+    background-color: white;
+    font-size: 10px;
+    height: 35px;
+    width: 70px;
+    border-radius: 5px;
+
+}
+
+.end {
+    color: orange;
+}
+
+.icon {
+    color: orange;
+    font-size: 5px;
+}
+
+.head {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.lime {
+    background-color: black;
+    border-width: 1px;
+}

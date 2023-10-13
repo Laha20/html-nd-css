@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.image {
+    height: 100px;
+    width: 200px;
+}
+
+.menucontainer {
+    background-color: white;
+}
+
+#navitem1 {
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+#navitem2 {
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+#navitem3 {
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+#navitem4 {
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+.homecontainer {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.but {
+    height: 70px;
+    width: 130px;
+}
+
+.wcu-container {
+    background-color: white;
+}
+
+.wcu-heading {
+    font-family: "Roboto";
+    font-size: 35px;
+    color: darkblue;
+}
+
+.wcu-description {
+    font-family: "Roboto";
+    font-size: 35px;
+    color: #5a7184;
+    font-style: italic;
+}
+
+.cardcontainer {
+    background-color: white;
+    border-radius: 10px;
+    border-color: #e5eaf4;
+    border-width: 1px;
+    border-style: solid;
+    padding: 5px;
+}
+
+.offers {
+    background-color: orange;
+}
+
+.image2 {
+    border-radius: 16px;
+
+}
+
+.menutitle {
+    color: #323f4b;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.menulink {
+    color: #d0b200;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.menucard {
+    border-radius: 16px;
+}
+
+.hfcontainer {
+    background-color: white;
+}
+
+.hfimage {
+    width: 270px;
+}
+
+.hfheading {
+    color: darkblue;
+    font-size: 28;
+    font-family: "Roboto";
+}
+
+.hfpara {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #5a7184;
+}
+
+.custom-button {
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-color: #d0b200;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.delivery-and-payment-section-img {
+    width: 270px;
+}
+
+.delivery-and-payment-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.thanking-customers-section {
+    background-color: #d0b2001a;
+}
+
+.thanking-customers-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.ty {
+    color: #d0b200;
+    font-weight: 800;
+}
